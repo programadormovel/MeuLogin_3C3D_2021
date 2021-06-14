@@ -1,0 +1,2 @@
+rootProject.name = "MeuLogin_3C3D_2021"
+include ':app'
